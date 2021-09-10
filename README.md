@@ -1,4 +1,4 @@
-- 👋 Hei, jeg er Thea Ahlgren
+- 👋 Hei, jeg heter Thea Ahlgren
 - 🌱 Jeg studerer datateknologi på NTNU
 - 💻 Dette er min personlige gitHub, der jeg har lagt til noen prosjekter jeg har jobbet med
 
